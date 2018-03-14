@@ -5,7 +5,7 @@ Main
 Your main() function will start and control the application. Its steps are as follows:
 
 
-######Extract Arguments
+###### Extract Arguments
  Process the arguments passed on the command line. All arguments must be greater than 0. If any argument is 0 or less, display an error and exit the program.
 
 ######Initialize Modules
